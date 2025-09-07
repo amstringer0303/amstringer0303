@@ -14,7 +14,7 @@
 ### About me
 Hey there! 👋 I grew up in the northernmost town in the United States, surrounded by sea ice and the people who depend on it to survive. That experience gave me a deep appreciation for the Arctic environment and a curiosity about how people and ice interact.  
 
-I earned my **B.S. in Environmental Science** from Vanderbilt University and a **Master’s** from the University of Washington. Now I’m in my **second year of a PhD at Duke University**, where I’m just beginning to dive into the world of **remote sensing** and **geospatial methods**. A lot of this is new to me, and I’m learning as I go — from mapping landfast ice to experimenting with AI for sea-ice classification.  
+I earned my **B.S. in Environmental Science** from Vanderbilt University and a **Master’s** from the University of Washington. Now I’m in my **second year of a PhD at Duke University**, where I’m diving into the world of **remote sensing** and **geospatial methods**. A lot of this is new to me, and I’m learning as I go — from mapping landfast ice to experimenting with machine learning for sea-ice classification.  
 
 Follow along as I keep building skills, asking questions, and growing into this field throughout my PhD journey! 🚀  
 
