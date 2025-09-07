@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:amstringer0303@gmail.com"><img src="https://img.shields.io/badge/Email-amstringer0303%40gmail.com-0A66C2?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&color=5FB3FF" alt="profile views"/>
+  <a href="mailto:ana.stringer@duke.edu"><img src="https://img.shields.io/badge/Email-ana.stringer%40duke.edu-0A66C2?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ana-stringer-9b6141206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=amstringer0303&color=5FB3FF" alt="profile views"/>
 </p>
 
 ---
+
 
 ### About me
 Hey there! 👋 I grew up in the northernmost town in the United States, surrounded by sea ice and the people who depend on it to survive. That experience shaped my perspective and instilled in me a deep sense of wonder for the natural world.
