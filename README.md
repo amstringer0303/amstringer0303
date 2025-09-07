@@ -40,12 +40,6 @@ Follow along as I keep building skills, asking questions, and growing into this 
 </p>
 
 ---
-
-### A little Arctic vibe 🌊❄️
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="400" alt="Sea ice gif"/>
-</p>
-
 ---
 
 <details>
