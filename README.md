@@ -19,8 +19,8 @@ I earned my **B.S. in Environmental Science** from Vanderbilt University and a *
 Follow along as I keep building skills, asking questions, and growing into this field throughout my PhD journey! 🚀  
 
 
-### What I’m working on
-Right now I’m training a U-Net to map landfast ice and nearshore polynyas from Sentinel-2 imagery to support a broader project on trail mobility and access for Inuit communities in the Arctic.  
+#### What I’m working on
+#### Right now I’m training a U-Net to map landfast ice and nearshore polynyas from Sentinel-2 imagery to support a broader project on trail mobility and access for Inuit communities in the Arctic.  
 ---
 
 ### Skills & tools
