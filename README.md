@@ -16,11 +16,13 @@ Hey there! 👋 I grew up in the northernmost town in the United States, surroun
 
 I earned my B.S. in Environmental Science from Vanderbilt University and a Master’s from the University of Washington. Now I’m in my **second year of a PhD at Duke University**, where I’m diving into the world of **remote sensing** and **geospatial methods**. A lot of this is new to me, and I’m learning as I go — from mapping landfast ice to experimenting with machine learning for sea-ice classification.  
 
-Follow along as I keep building skills, asking questions, and growing into this field throughout my PhD journey! 
+Follow along as I keep building skills, asking questions, and growing into this field throughout my PhD journey!  
 
+---
 
-#### What I’m working on
-#### Right now I’m training a U-Net to map landfast ice and nearshore polynyas from Sentinel-2 imagery to support a broader project on trail mobility and access for Inuit communities in the Arctic.  
+### What I’m working on
+🧪 Right now I’m training a U-Net to map landfast ice and nearshore polynyas from Sentinel-2 imagery. This supports a broader project on trail mobility and access for Inuit communities in the Arctic.  
+
 ---
 
 ### Skills & tools
@@ -33,10 +35,37 @@ Follow along as I keep building skills, asking questions, and growing into this 
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?logo=googleearth&logoColor=white"/>
   <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentinel--2-3C8DAD"/>
+  <img src="https://img.shields.io/badge/PhD-Year_2-blueviolet"/>
+  <img src="https://img.shields.io/badge/Focus-Landfast_Ice-lightblue"/>
 </p>
 
 ---
 
+### A little Arctic vibe 🌊❄️
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="400" alt="Sea ice gif"/>
+</p>
+
+---
+
+<details>
+  <summary>📂 Current projects (click to expand)</summary>
+  
+  - U-Net for landfast ice + nearshore polynyas  
+  - Distance-to-coast rasters  
+  - Edge extraction pipeline  
+  - Transect-based evaluation  
+
+</details>
+
+---
+
+### Contribution Snake 🐍
+![GitHub Snake dark](https://github.com/amstringer0303/amstringer0303/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/amstringer0303/amstringer0303/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
 ### How to reach me
-- ✉️ ana.stringer@duke.edu
-- 💼 LinkedIn:[ https://www.linkedin.com/in/<your-linkedin> ](https://www.linkedin.com/in/ana-stringer-9b6141206/) 
+- ✉️ ana.stringer@duke.edu  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ana-stringer-9b6141206/](https://www.linkedin.com/in/ana-stringer-9b6141206/)  
