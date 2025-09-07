@@ -40,25 +40,6 @@ Follow along as I keep building skills, asking questions, and growing into this 
 </p>
 
 ---
----
-
-<details>
-  <summary>📂 Current projects (click to expand)</summary>
-  
-  - U-Net for landfast ice + nearshore polynyas  
-  - Distance-to-coast rasters  
-  - Edge extraction pipeline  
-  - Transect-based evaluation  
-
-</details>
-
----
-
-### Contribution Snake 🐍
-![GitHub Snake dark](https://github.com/amstringer0303/amstringer0303/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/amstringer0303/amstringer0303/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
 
 ### How to reach me
 - ✉️ ana.stringer@duke.edu  
