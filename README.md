@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=900&color=5FB3FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ana+Stringer+%F0%9F%8C%8A;Remote+Sensing+of+Landfast+Ice+Environments;Earth+Observation+%7C+Geospatial+AI+%7C+Arctic+Coasts" alt="Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3500&pause=900&color=5FB3FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ana+Stringer+%F0%9F%8C%8A;Learning+Remote+Sensing+of+Landfast+Ice;Exploring+Earth+Observation+%7C+Geospatial+AI+%7C+Arctic+Coasts" alt="Intro" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 ---
 
-
 ### About me
-Hey there! 👋 I grew up in the northernmost town in the United States, surrounded by sea ice and the people who depend on it to survive. That experience shaped my perspective and instilled in me a deep sense of wonder for the natural world.
+Hey there! 👋 I grew up in the northernmost town in the United States, surrounded by sea ice and the people who depend on it to survive. That experience gave me a deep appreciation for the Arctic environment and a curiosity about how people and ice interact.  
 
-I earned my **B.S. in Environmental Science** from Vanderbilt University and a **Master’s** from the University of Washington. Now, I’m working on my **PhD at Duke University**, where I study how **remote sensing** can be used to better understand and support communities living in the High Arctic. My research focuses on the dynamics of **landfast ice**, the formation of **nearshore polynyas**, and how **geospatial AI** can help translate Earth observation data into insights for climate resilience and community livelihoods.
+I earned my **B.S. in Environmental Science** from Vanderbilt University and a **Master’s** from the University of Washington. Now I’m in my **second year of a PhD at Duke University**, where I’m just beginning to dive into the world of **remote sensing** and **geospatial methods**. A lot of this is new to me, and I’m learning as I go — from mapping landfast ice to experimenting with AI for sea-ice classification.  
 
----
+Follow along as I keep building skills, asking questions, and growing into this field throughout my PhD journey! 🚀  
+
 
 ### What I’m working on
 Right now I’m training a U-Net to map landfast ice and nearshore polynyas from Sentinel-2 imagery to support a broader project on trail mobility and access for Inuit communities in the Arctic.  
